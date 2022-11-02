@@ -1,7 +1,0 @@
-221102
-Rigor + repro hw
-
-Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about.
-I’ve learned a lot about the basic features of GitHub! While I’ve used it at a very basic level in the past, it’s been awhile and was good to get a refresher. The resources on markdown were really helpful for understanding how to format content. Also, I’ve never used issues and it’s nice that there’s a way to make suggestions or bring up problems without creating an entire other branch. I’m still a little confused about forks vs. branches – can you merge a fork with the main branch?
-Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
-Wilson et. al suggest sharing changes frequently to reduce the amount of drift between each user’s version of the data. GitHub is especially useful for this, as it allows you to not only share changes, but suggest changes before they’re accepted so that other users can look them over, as well as create forks so that changes don’t necessarily affect others’ work. Additionally, it keeps track of changes, so that the group can track different versions of the data as it evolves, as well as determine which changes were made by which user.
